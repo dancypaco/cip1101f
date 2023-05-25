@@ -29,43 +29,43 @@ let products = [
     {
         id: 3,
         name: 'Against Fiery Trough',
-        image: '3.PNG',
+        image: '3.png',
         price: 1500
     },
     {
         id: 4,
         name: 'Island Vacation',
-        image: '4.PNG',
+        image: '4.png',
         price: 1550
     },
     {
         id: 5,
         name: 'Admiral of the Seven Seas',
-        image: '5.PNG',
+        image: '5.png',
         price: 2000
     },
     {
         id: 6,
         name: 'Fragrant Perspire',
-        image: '6.PNG',
+        image: '6.png',
         price: 1700
     },
     {
         id: 7,
         name: 'Thalassophile',
-        image: '7.PNG',
+        image: '7.png',
         price: 1500
     },
     {
         id: 8,
         name: 'Nature Untamed',
-        image: '8.PNG',
+        image: '8.png',
         price: 1200
     },
     {
         id: 9,
         name: 'Brave Dive',
-        image: '9.PNG',
+        image: '9.png',
         price: 1500
     },
 ];
