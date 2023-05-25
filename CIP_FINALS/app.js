@@ -23,7 +23,7 @@ let products = [
     {
         id: 2,
         name: 'Minty Mystique',
-        image: '2.PNG',
+        image: '2.png',
         price: 1500
     },
     {
