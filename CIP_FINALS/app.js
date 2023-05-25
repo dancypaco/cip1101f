@@ -17,7 +17,7 @@ let products = [
     {
         id: 1,
         name: 'Lemony Limelight',
-        image: '1.PNG',
+        image: '1.png',
         price: 1200
     },
     {
